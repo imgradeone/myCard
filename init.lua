@@ -1,0 +1,16 @@
+appname="myCard"
+appver="1.0"
+appcode="1"
+appsdk="15"
+path_pattern=""
+packagename="imgradeone.mycard.lite"
+theme="Theme_Material_Light_NoActionBar_Fullscreen"
+app_key=""
+app_channel=""
+developer="imgradeone"
+description=""
+debugmode=false
+user_permission={
+  "INTERNET",
+  "WRITE_EXTERNAL_STORAGE"
+}
